@@ -7,7 +7,7 @@
     margin: 0;
     width: 100%;
     margin: auto;
-background-image: url("pic.jpg");
+background-image: url("pic.jpeg");
 	float: left;
 	  display:flex; 
   flex-direction:column; 
